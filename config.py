@@ -1,0 +1,7 @@
+TARGET_SCORE = None
+
+GAME_URL = "https://chromedino.com/"
+JUMP_DISTANCE = 120
+BIRD_DUCK_DISTANCE = 50
+
+LOOP_DELAY = 0.015
