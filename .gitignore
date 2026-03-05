@@ -226,3 +226,5 @@ secrets.py
 *.pid
 *.seed
 *.pid.lock
+
+Ideas.md
